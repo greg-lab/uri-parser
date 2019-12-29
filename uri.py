@@ -1,6 +1,6 @@
 """
 URI parser created by Greg on 8th April 2019.
-According to RFC 3986 (see: https://tools.ietf.org/html/rfc3986#section-2.2)
+According to RFC 3986 (see: https://tools.ietf.org/html/rfc3986)
 It is recommended to be a part of HTTP parser and therefore I assume that input URI does not have a scheme or host.
 
 Expected input has a following format:
